@@ -1,11 +1,5 @@
 # Grupo 1 — P2P estructurado y no estructurado
 
-## Integrantes
-
-- John Steven Lopez Velez
-- Luiggi Andrei Bernardi Zambrano
-- Santiago Esquetini
-
 ## Material del grupo
 
 - [Hoja de resumen](docs/Hoja_Resumen_P2P_Grupo1.pdf)

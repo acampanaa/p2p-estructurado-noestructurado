@@ -1,0 +1,6 @@
+En una red P2P no existe un servidor central que mande sobre los demas.
+Cada nodo es a la vez cliente y servidor: pide trozos y tambien los entrega.
+Por eso la red crece con sus usuarios en lugar de saturarse, y no hay un
+unico punto que apagar. BitTorrent e IPFS parten cada archivo en bloques,
+identifican cada bloque por su hash (su CID) y lo descargan de muchos peers
+a la vez, verificando la integridad pieza por pieza. Esa es la magia del P2P.
